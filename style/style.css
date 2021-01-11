@@ -30,3 +30,9 @@ header:after{
 	display: block;
 	clear: right;
 }
+.container{
+	width: 900px;
+    height: 450px;
+    background-color: aqua;
+    margin: 0px 0px 0px 150px;
+}
