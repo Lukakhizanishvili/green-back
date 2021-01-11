@@ -8,3 +8,8 @@ body{
 .float{
 	text-align: center;
 }
+.green{
+	width: 100%;
+	height: 100%;
+	background-color: #347E4F;
+}
