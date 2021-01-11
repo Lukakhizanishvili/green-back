@@ -52,5 +52,9 @@ header:after{
 	height: 100%;
 	background-color: yellow;
 	float: right;
-
+}
+.dark{
+	width: 30%;
+    float: right;
+    margin: 20px
 }
