@@ -22,6 +22,11 @@ body{
 	display: inline-block;
     float: right;
     margin: 30px 90px;
+    color: white;
     font-size: 24px;
-    font: #E9F0C7;
+}
+header:after{
+	content: "";
+	display: block;
+	clear: right;
 }
