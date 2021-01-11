@@ -58,3 +58,11 @@ header:after{
     float: right;
     margin: 20px
 }
+.dark-text{
+	margin: 20px;
+}
+.dragon{
+	width: 30%;
+    float: left;
+    margin: 20px;
+}
